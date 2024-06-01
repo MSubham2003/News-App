@@ -19,14 +19,20 @@ The News App is a simple web application that fetches and displays news articles
 ## Installation and Setup
 
 1. **Clone the Repository**:
+    ```bash
     git clone https://github.com/MSubham2003/News-App
     cd News-App
+    ```
 
 2. **Install Dependencies**:
+    ```bash
     npm install
+    ```
 
 3. **Run the App**:
+    ```bash
     npm run dev
+    ```
 
     The app will be available at `http://localhost:3000`.
 
@@ -34,4 +40,5 @@ The News App is a simple web application that fetches and displays news articles
 
 To build the app for production, run:
 
-    npm run build
+```bash
+npm run build
