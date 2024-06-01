@@ -1,8 +1,8 @@
-# News Fetcher App
+# News App
 
 ## Project Description
 
-The News Fetcher App is a simple web application that fetches and displays news articles from the News API. If the API request fails, it shows an alert error message to the user. The application is built using React, Vite, and Tailwind CSS for a modern, efficient, and responsive user interface.
+The News App is a simple web application that fetches and displays news articles from the News API. If the API request fails, it shows an alert error message to the user. The application is built using React, Vite, and Tailwind CSS for a modern, efficient, and responsive user interface.
 
 ## Features
 
@@ -19,20 +19,14 @@ The News Fetcher App is a simple web application that fetches and displays news 
 ## Installation and Setup
 
 1. **Clone the Repository**:
-    ```bash
-    git clone https://github.com/yourusername/news-fetcher-app.git
-    cd news-fetcher-app
-    ```
+    git clone https://github.com/MSubham2003/News-App
+    cd News-App
 
 2. **Install Dependencies**:
-    ```bash
     npm install
-    ```
 
 3. **Run the App**:
-    ```bash
     npm run dev
-    ```
 
     The app will be available at `http://localhost:3000`.
 
@@ -40,5 +34,4 @@ The News Fetcher App is a simple web application that fetches and displays news 
 
 To build the app for production, run:
 
-```bash
-npm run build
+    npm run build
