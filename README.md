@@ -34,7 +34,7 @@ The News App is a simple web application that fetches and displays news articles
     npm run dev
     ```
 
-    The app will be available at `http://localhost:3000`.
+    The app will be available at `http://localhost:5173`.
 
 ## Deployment
 
