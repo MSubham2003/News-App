@@ -3,3 +3,12 @@
   padding: 0;
   text-align: center;
 }
+
+#light{
+  background-color: white;
+}
+
+#dark{
+  background-color: #132953;
+  color: white;
+}
